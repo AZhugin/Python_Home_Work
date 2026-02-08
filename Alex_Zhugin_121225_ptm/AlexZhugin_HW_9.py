@@ -31,6 +31,23 @@
 #         print(j, end=" ")
 #     print()
 
+number = int(input("Введите число: "))
+row = 1
+column = 1
+
+for i in range(1000):
+    print(column, end=" ")
+    column += 1
+
+    if column > row:
+        print("\n", end="")
+        row += 1
+        column = 1
+
+    if row > number:
+        break
+
+
 
 # 3
 # Удаление всех повторяющихся символов
