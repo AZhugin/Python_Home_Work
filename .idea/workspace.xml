@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdfcd52b-69a0-43c3-be23-49d49a6eb334" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Alex_Zhugin_121225_ptm/AlexZhugin_HW_17.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Alex_Zhugin_121225_ptm/AlexZhugin_HW_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alex_Zhugin_121225_ptm/AlexZhugin_HW_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex_Zhugin_121225_ptm/AlexZhugin_HW_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alex_Zhugin_121225_ptm/AlexZhugin_HW_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex_Zhugin_121225_ptm/AlexZhugin_HW_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alex_Zhugin_121225_ptm/AlexZhugin_HW_15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex_Zhugin_121225_ptm/AlexZhugin_HW_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alex_Zhugin_121225_ptm/AlexZhugin_HW_16.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +46,10 @@
     "Python.AlexZhugin_HW_11.executor": "Run",
     "Python.AlexZhugin_HW_12.executor": "Run",
     "Python.AlexZhugin_HW_13.executor": "Run",
+    "Python.AlexZhugin_HW_14.executor": "Run",
+    "Python.AlexZhugin_HW_15.executor": "Run",
+    "Python.AlexZhugin_HW_16.executor": "Run",
+    "Python.AlexZhugin_HW_17.executor": "Run",
     "Python.AlexZhugin_HW_2.executor": "Run",
     "Python.AlexZhugin_HW_4.executor": "Run",
     "Python.AlexZhugin_HW_5.executor": "Run",
@@ -71,7 +78,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.AlexZhugin_HW_13">
+  <component name="RunManager">
     <configuration name="AlexZhugin_HW_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
@@ -252,7 +259,9 @@
       <workItem from="1770760919059" duration="3284000" />
       <workItem from="1770796879038" duration="8000" />
       <workItem from="1770970929077" duration="2602000" />
-      <workItem from="1771175013324" duration="6942000" />
+      <workItem from="1771175013324" duration="8493000" />
+      <workItem from="1771881051556" duration="6864000" />
+      <workItem from="1772190209041" duration="7622000" />
     </task>
     <servers />
   </component>
@@ -263,14 +272,18 @@
     <SUITE FILE_PATH="coverage/Python$AlexZhugin_HW_8.coverage" NAME="AlexZhugin_HW_8 Coverage Results" MODIFIED="1770156116016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alex_Zhugin_121225_ptm" />
     <SUITE FILE_PATH="coverage/Python$AlexZhugin_HW_2.coverage" NAME="AlexZhugin_HW_2 Coverage Results" MODIFIED="1770059506876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alex_Zhugin_121225_ptm" />
     <SUITE FILE_PATH="coverage/Python$AlexZhugin_HW_5.coverage" NAME="AlexZhugin_HW_5 Coverage Results" MODIFIED="1770065033960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alex_Zhugin_121225_ptm" />
+    <SUITE FILE_PATH="coverage/Python$AlexZhugin_HW_15.coverage" NAME="AlexZhugin_HW_15 Coverage Results" MODIFIED="1772315709210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alex_Zhugin_121225_ptm" />
+    <SUITE FILE_PATH="coverage/Python$AlexZhugin_HW_16.coverage" NAME="AlexZhugin_HW_16 Coverage Results" MODIFIED="1772318520050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alex_Zhugin_121225_ptm" />
     <SUITE FILE_PATH="coverage/Python$AlexZhugin_HW_7.coverage" NAME="AlexZhugin_HW_7 Coverage Results" MODIFIED="1770573155607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alex_Zhugin_121225_ptm" />
     <SUITE FILE_PATH="coverage/Python$AlexZhugin_HW_4.coverage" NAME="AlexZhugin_HW_4 Coverage Results" MODIFIED="1770059586739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alex_Zhugin_121225_ptm" />
     <SUITE FILE_PATH="coverage/Python$AlexZhugin_HW_12.coverage" NAME="AlexZhugin_HW_12 Coverage Results" MODIFIED="1771176462871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alex_Zhugin_121225_ptm" />
+    <SUITE FILE_PATH="coverage/Python$AlexZhugin_HW_17.coverage" NAME="AlexZhugin_HW_17 Coverage Results" MODIFIED="1772317978583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alex_Zhugin_121225_ptm" />
     <SUITE FILE_PATH="coverage/Python$AlexZhugin_HW_6.coverage" NAME="AlexZhugin_HW_6 Coverage Results" MODIFIED="1770069172253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alex_Zhugin_121225_ptm" />
     <SUITE FILE_PATH="coverage/Python$AlexZhugin_HW_11.coverage" NAME="AlexZhugin_HW_11 Coverage Results" MODIFIED="1770764746706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alex_Zhugin_121225_ptm" />
-    <SUITE FILE_PATH="coverage/Python$AlexZhugin_HW_13.coverage" NAME="AlexZhugin_HW_13 Coverage Results" MODIFIED="1771273952877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alex_Zhugin_121225_ptm" />
+    <SUITE FILE_PATH="coverage/Python$AlexZhugin_HW_13.coverage" NAME="AlexZhugin_HW_13 Coverage Results" MODIFIED="1771283408333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alex_Zhugin_121225_ptm" />
     <SUITE FILE_PATH="coverage/Python$AlexZhugin_HW_1.coverage" NAME="AlexZhugin_HW_1 Coverage Results" MODIFIED="1770059257055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alex_Zhugin_121225_ptm" />
     <SUITE FILE_PATH="coverage/Python$AlexZhugin_HW_9.coverage" NAME="AlexZhugin_HW_9 Coverage Results" MODIFIED="1770512155644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alex_Zhugin_121225_ptm" />
+    <SUITE FILE_PATH="coverage/Python$AlexZhugin_HW_14.coverage" NAME="AlexZhugin_HW_14 Coverage Results" MODIFIED="1771886933367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alex_Zhugin_121225_ptm" />
     <SUITE FILE_PATH="coverage/Python$main.coverage" NAME="main Coverage Results" MODIFIED="1770059166875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$AlexZhugin_HW_10.coverage" NAME="AlexZhugin_HW_10 Coverage Results" MODIFIED="1770762825440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alex_Zhugin_121225_ptm" />
   </component>
